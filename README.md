@@ -1,6 +1,7 @@
 # Earth
 
-Halo 2.0 的默认主题。
+在 Halo 2.0 的默认主题 earth 的基础上进行了一些修改。
+以下内容暂未修改，仅供参考。
 
 ![Earth](./screenshot.jpg)
 

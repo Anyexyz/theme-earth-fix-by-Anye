@@ -1,21 +1,21 @@
 apiVersion: theme.halo.run/v1alpha1
 kind: Theme
 metadata:
-  name: theme-earth
+  name: theme-earth-fix-by-Anye
   annotations:
     # Add supports for Halo App Store
     # https://halo.run/store/apps/app-KgWqR
-    "store.halo.run/app-id": "app-KgWqR"
+    # "store.halo.run/app-id": "app-KgWqR"
 spec:
-  displayName: Earth
+  displayName: Earth-Anye
   author:
     name: halo-dev
     website: https://halo.run
-  description: Default theme for Halo 2.0
+  description: A theme fix by Anye from earth
   logo: https://halo.run/logo
-  website: https://github.com/halo-dev/theme-earth
-  repo: https://github.com/halo-dev/theme-earth.git
+  website: https://github.com/Anyexyz/theme-earth-fix-by-Anye
+  repo: https://github.com/Anyexyz/theme-earth-fix-by-Anye.git
   settingName: "theme-earth-setting"
   configMapName: "theme-earth-configMap"
-  version: 1.7.1
+  version: 1.7.1.1
   require: ">=2.8.0"
