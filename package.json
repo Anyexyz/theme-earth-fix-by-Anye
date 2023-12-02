@@ -20,17 +20,10 @@
     "url": "https://github.com/Anyexyz/theme-earth-fix-by-Anye/issues"
   },
   "author": {
-    "name": "Halo OSS Organization",
-    "url": "https://github.com/halo-dev",
-    "email": "hi@halo.run"
+    "name": "Anyexyz",
+    "url": "https://github.com/Anyexyz",
+    "email": "anyexyz@foxmail.com"
   },
-  "maintainers": [
-    {
-      "name": "Anyexyz",
-      "url": "https://github.com/Anyexyz",
-      "email": "anyexyz@foxmail.com"
-    }
-  ],
   "license": "GPL-3.0",
   "repository": {
     "url": "https://github.com/Anyexyz/theme-earth-fix-by-Anye",
