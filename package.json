@@ -2,7 +2,7 @@
   "name": "@halo-dev/theme-earth-fix-by-anye",
   "private": true,
   "version": "1.7.1-1",
-  "description": "Default theme for Halo 2.0",
+  "description": "A theme fix by Anye from earth",
   "scripts": {
     "dev": "vite build --watch",
     "build": "tsc && vite build",
@@ -15,9 +15,9 @@
     "halo-theme",
     "halo-template"
   ],
-  "homepage": "https://github.com/halo-dev/theme-earth#readme",
+  "homepage": "https://github.com/Anyexyz/theme-earth-fix-by-Anye#readme",
   "bugs": {
-    "url": "https://github.com/halo-dev/theme-earth/issues"
+    "url": "https://github.com/Anyexyz/theme-earth-fix-by-Anye/issues"
   },
   "author": {
     "name": "Halo OSS Organization",
@@ -26,14 +26,14 @@
   },
   "maintainers": [
     {
-      "name": "Ryan Wang",
-      "url": "https://github.com/ruibaby",
-      "email": "i@ryanc.cc"
+      "name": "Anyexyz",
+      "url": "https://github.com/Anyexyz",
+      "email": "anyexyz@foxmail.com"
     }
   ],
   "license": "GPL-3.0",
   "repository": {
-    "url": "https://github.com/halo-dev/theme-earth",
+    "url": "https://github.com/Anyexyz/theme-earth-fix-by-Anye",
     "type": "git"
   },
   "devDependencies": {
