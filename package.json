@@ -1,7 +1,7 @@
 {
   "name": "@halo-dev/theme-earth-fix-by-anye",
   "private": true,
-  "version": "1.7.1-1",
+  "version": "1.7.1-2",
   "description": "A theme fix by Anye from earth",
   "scripts": {
     "dev": "vite build --watch",
